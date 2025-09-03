@@ -1,0 +1,14 @@
+# My Blog Repository
+
+This repository contains all the blog posts for my personal blog.
+
+## Workflow
+- Blog posts are stored in the `posts/` folder.
+- Posts are generated via n8n automation using OpenAI outputs.
+
+## How to add a new post
+1. Create a new markdown file in `posts/` folder.
+2. Name it as `your-post-title.md`.
+3. Add your content in markdown format.
+
+Happy blogging! 🚀
